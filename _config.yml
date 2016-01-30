@@ -1,0 +1,14 @@
+layout_spectrum: 0.6176317
+typography_spectrum: 0.4794127
+color:
+  saturation: 0.4275489
+  lightness: 0.2137171
+  brandStrength: 0.08951669
+  rhythmicContrast: 0.1439953
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Isle Of Skye
